@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/irlp-lab/static/css/main.f1beaae2.css",
+    "main.js": "/irlp-lab/static/js/main.bfe7f93c.js",
+    "static/js/453.5e31f3a5.chunk.js": "/irlp-lab/static/js/453.5e31f3a5.chunk.js",
+    "static/media/fire_12.jpg": "/irlp-lab/static/media/fire_12.2a252aeea023aab99f8b.jpg",
+    "static/media/blackboard.jpeg": "/irlp-lab/static/media/blackboard.ef254854cbf30e63bad4.jpeg",
+    "static/media/fire_9.jpg": "/irlp-lab/static/media/fire_9.40003efd5f224d3e59f4.jpg",
+    "static/media/fire_10.jpg": "/irlp-lab/static/media/fire_10.a6a4db2b8a1f930bf11f.jpg",
+    "static/media/fire_13.jpg": "/irlp-lab/static/media/fire_13.1b1a9253067a66976138.jpg",
+    "index.html": "/irlp-lab/index.html",
+    "main.f1beaae2.css.map": "/irlp-lab/static/css/main.f1beaae2.css.map",
+    "main.bfe7f93c.js.map": "/irlp-lab/static/js/main.bfe7f93c.js.map",
+    "453.5e31f3a5.chunk.js.map": "/irlp-lab/static/js/453.5e31f3a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1beaae2.css",
+    "static/js/main.bfe7f93c.js"
+  ]
+}
