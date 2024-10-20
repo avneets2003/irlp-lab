@@ -1,0 +1,38 @@
+{
+    "events": {
+        "upcoming": [
+            {
+                "title": "Forum for Information Retrieval Evaluation (FIRE 2024)",
+                "date": "12th-15th December 2024",
+                "image": "https://via.placeholder.com/150"
+            }
+        ],
+        "past": [
+            {
+                "title": "Two-Day School on AI and Law",
+                "date": "5th - 6th April 2024",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "title": "Forum for Information Retrieval Evaluation (FIRE 2023)",
+                "date": "15th-18th December 2023",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "title": "Forum for Information Retrieval Evaluation (FIRE 2022)",
+                "date": "9th-13th December 2022",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "title": "Forum for Information Retrieval Evaluation (FIRE 2021)",
+                "date": "13th-17th December 2021",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "title": "Forum for Information Retrieval Evaluation (FIRE 2020)",
+                "date": "16th-20th December 2020",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    }
+}

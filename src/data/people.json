@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Faculty",
+        "people": [
+            {
+                "name": "Prof. Prasenjit Majumder",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    },
+    {
+        "title": "PhD Students",
+        "people": [
+            {
+                "name": "Surupendu Gangopadhyay",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Bhargav Dave",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    },
+    {
+        "title": "Masters Students",
+        "people": [
+            {
+                "name": "Aditi Singh (M.Sc. DS)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Anurag Shukla (M.Sc. DS)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Ganesh Epili (M.Tech. ICT)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Garvika (M.Sc. DS)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Jyoti Kumari (M.Sc. DS)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Tanaz Pathan (M.Sc. DS)",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    },
+    {
+        "title": "Alumni",
+        "people": [
+            {
+                "name": "Parth Mehta",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    }
+]

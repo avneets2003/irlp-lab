@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -15,7 +15,7 @@ import Footer from "./components/footer";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <Router>
       <div className="d-flex flex-column min-vh-100">
         <Header />
         <main className="flex-fill">
@@ -31,7 +31,7 @@ const App = () => {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+    </Router>
   );
 };
 
