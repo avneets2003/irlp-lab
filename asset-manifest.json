@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/irlp-lab/static/css/main.f1beaae2.css",
-    "main.js": "/irlp-lab/static/js/main.989e45e8.js",
+    "main.css": "/irlp-lab/static/css/main.131a7560.css",
+    "main.js": "/irlp-lab/static/js/main.aef0c481.js",
     "static/js/453.5e31f3a5.chunk.js": "/irlp-lab/static/js/453.5e31f3a5.chunk.js",
     "static/media/fire_12.jpg": "/irlp-lab/static/media/fire_12.2a252aeea023aab99f8b.jpg",
     "static/media/blackboard.jpeg": "/irlp-lab/static/media/blackboard.ef254854cbf30e63bad4.jpeg",
     "static/media/fire_9.jpg": "/irlp-lab/static/media/fire_9.40003efd5f224d3e59f4.jpg",
     "static/media/fire_10.jpg": "/irlp-lab/static/media/fire_10.a6a4db2b8a1f930bf11f.jpg",
     "static/media/fire_13.jpg": "/irlp-lab/static/media/fire_13.1b1a9253067a66976138.jpg",
+    "static/media/bootstrap-icons.woff?": "/irlp-lab/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/irlp-lab/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/logo.png": "/irlp-lab/static/media/logo.c04167ea2f4fd464bbee.png",
     "index.html": "/irlp-lab/index.html",
-    "main.f1beaae2.css.map": "/irlp-lab/static/css/main.f1beaae2.css.map",
-    "main.989e45e8.js.map": "/irlp-lab/static/js/main.989e45e8.js.map",
+    "main.131a7560.css.map": "/irlp-lab/static/css/main.131a7560.css.map",
+    "main.aef0c481.js.map": "/irlp-lab/static/js/main.aef0c481.js.map",
     "453.5e31f3a5.chunk.js.map": "/irlp-lab/static/js/453.5e31f3a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1beaae2.css",
-    "static/js/main.989e45e8.js"
+    "static/css/main.131a7560.css",
+    "static/js/main.aef0c481.js"
   ]
 }
