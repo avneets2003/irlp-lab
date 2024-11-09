@@ -1,11 +1,12 @@
 import React from 'react';
-import { Container, Navbar, Nav } from 'react-bootstrap';
+import { Container, Navbar, Nav, NavDropdown } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import styles from './styles';
+import logo from '../../assets/logo.png';
 
 const Header = () => {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar expand="lg" style={{ backgroundColor: '#e0f7e0' }}>
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" className="order-1" />
                 <Navbar.Brand 
@@ -14,7 +15,11 @@ const Header = () => {
                     className="order-2 d-none d-md-block" 
                     style={styles.navbarBrand}
                 >
-                    Information Retrieval and Language Processing Lab
+                    <img 
+                        src={logo} 
+                        alt="IRLP Lab Logo" 
+                        style={{ height: '80px' }}
+                    />
                 </Navbar.Brand>
                 <Navbar.Brand 
                     as={Link} 
@@ -22,15 +27,30 @@ const Header = () => {
                     className="order-2 d-block d-md-none" 
                     style={styles.navbarBrandMobile}
                 >
-                    Information Retrieval and Language Processing Lab
+                    <img 
+                        src={logo} 
+                        alt="IRLP Lab Logo" 
+                        style={{ height: '30px' }}
+                    />
                 </Navbar.Brand>
                 <Navbar.Collapse id="basic-navbar-nav" className="order-3">
                     <Nav className="ms-auto">
                         <Nav.Link as={Link} to="/home" style={styles.navLink}>Home</Nav.Link>
-                        <Nav.Link as={Link} to="/people" style={styles.navLink}>People</Nav.Link>
-                        <Nav.Link as={Link} to="/research" style={styles.navLink}>Research</Nav.Link>
+                        <NavDropdown title="People" id="people-dropdown" style={styles.navLink}>
+                            <NavDropdown.Item as={Link} to="/people/current">Current</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/people/alumni">Alumni</NavDropdown.Item>
+                        </NavDropdown>
+                        <NavDropdown title="Research" id="research-dropdown" style={styles.navLink}>
+                            <NavDropdown.Item as={Link} to="/research/interests">Interests</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/research/resources">Resources</NavDropdown.Item>
+                        </NavDropdown>
+                        <NavDropdown title="Affairs" id="affairs-dropdown" style={styles.navLink}>
+                            <NavDropdown.Item as={Link} to="/events">Events</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/talks">Talks</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/gallery">Gallery</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/media-coverage">Media Coverage</NavDropdown.Item>
+                        </NavDropdown>
                         <Nav.Link as={Link} to="/publications" style={styles.navLink}>Publications</Nav.Link>
-                        <Nav.Link as={Link} to="/events" style={styles.navLink}>Events</Nav.Link>
                         <Nav.Link as={Link} to="/contact" style={styles.navLink}>Contact Us</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

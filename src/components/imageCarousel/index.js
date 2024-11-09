@@ -19,7 +19,7 @@ const ImageCarousel = () => {
             className="d-block mx-auto"
             src={image}
             alt={`Slide ${index}`}
-            style={{ height: '500px', width: '80%', objectFit: 'cover' }}
+            style={{ height: '350px', width: '80%', objectFit: 'cover' }}
           />
           {/* <Carousel.Caption>
             <h3>Slide {index + 1}</h3>

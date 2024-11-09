@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import EventCard from '../../components/eventCard/index';
+import EventCard from '../../components/eventCard/large';
 import eventsData from '../../data/events.json';
 
 const EventsPage = () => {

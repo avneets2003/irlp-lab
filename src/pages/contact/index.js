@@ -1,12 +1,25 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import map from '../../urls';
 
 const ContactPage = () => {
   return (
     <Container className="mt-5">
       <h1 className="mb-4">Contact Us</h1>
       <Row>
-        <Col md={12}>
+        <Col md={6}>
+          <iframe
+            title="map"
+            src={map}
+            width="600"
+            height="450"
+            style={{ border: 0 }}
+            allowFullScreen
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          />
+        </Col>
+        <Col md={6}>
           <h2>Information Retrieval and Language Processing Lab (IRLP Lab)</h2>
           <p>
             CEP-003, DA-IICT,<br />

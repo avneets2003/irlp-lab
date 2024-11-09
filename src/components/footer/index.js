@@ -1,28 +1,32 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faTwitter, faLinkedin, faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
     return (
-        <footer className="bg-light text-dark mt-5">
+        <footer className="text-dark mt-5" style={{ backgroundColor: '#e0f7e0' }}>
             <Container>
-                <Row className="py-4 align-items-center">
-                    <Col md={2}></Col>
-                    <Col md={3} className="text-center text-md-start">
-                        <h1>IRLP Lab</h1>
-                    </Col>
-                    <Col md={1} className="text-center d-none d-md-block">
-                        <div style={{ borderLeft: '2px solid #ccc', height: '100px' }}></div>
-                    </Col>
-                    <Col md={4} className="text-center text-md-start">
+                <Row className="py-4 justify-content-center text-center">
+                    <Col md={12}>
+                        <div className="mb-3">
+                            <a href="https://twitter.com" className="mx-2" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faTwitter} size="2x" style={{ color: '#1DA1F2' }} />
+                            </a>
+                            <a href="https://linkedin.com" className="mx-2" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faLinkedin} size="2x" style={{ color: '#0077B5' }} />
+                            </a>
+                            <a href="https://github.com" className="mx-2" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faGithub} size="2x" style={{ color: '#333' }} />
+                            </a>
+                            <a href="https://youtube.com" className="mx-2" target="_blank" rel="noopener noreferrer">
+                                <FontAwesomeIcon icon={faYoutube} size="2x" style={{ color: '#FF0000' }} />
+                            </a>
+                        </div>
                         <p>
-                            Information Retrieval and Language Processing Lab (IRLP Lab) <br />
-                            CEP-003, DA-IICT, Reliance Cross Road, Gandhinagar, <br />
-                            Gujarat-382007 <br />
-                            Phone: 079-30510638 <br />
-                            Email: irlab@daiict.ac.in
+                            Information Retrieval and Language Processing Lab (IRLP Lab)
                         </p>
                     </Col>
-                    <Col md={2}></Col>
                 </Row>
             </Container>
         </footer>
