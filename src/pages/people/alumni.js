@@ -6,7 +6,7 @@ const AlumniPage = () => {
   return (
     <div className="container mt-5">
       {data
-        .filter(category => category.title === 'Alumni')
+        .filter(category => category.title === 'Alumni (Ph.D.)' || category.title === 'Alumni (M.Tech.)')
         .map((category, index) => (
           <div key={index}>
             <h2 className="mt-4 mb-4">{category.title}</h2>

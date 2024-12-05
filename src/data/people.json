@@ -9,7 +9,7 @@
         ]
     },
     {
-        "title": "PhD Students",
+        "title": "Ph.D. Students",
         "people": [
             {
                 "name": "Surupendu Gangopadhyay",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "title": "Masters Students",
+        "title": "PG Students",
         "people": [
             {
                 "name": "Aditi Singh (M.Sc. DS)",
@@ -51,10 +51,164 @@
         ]
     },
     {
-        "title": "Alumni",
+        "title": "UG Students",
         "people": [
             {
+                "name": "Avneet Sharma",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Bhavesh Baraiya",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Chintan Maru",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    },
+    {
+        "title": "Alumni (Ph.D.)",
+        "people": [
+            {
+                "name": "Jainisha Sankhavara",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Sandip Jayantilal Modha",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
                 "name": "Parth Mehta",
+                "image": "https://via.placeholder.com/150"
+            }
+        ]
+    },
+    {
+        "title": "Alumni (M.Tech.)",
+        "people": [
+            {
+                "name": "Shripad Anant Bhat",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Sonal Mishra",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Raj B Prajapati",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Maulik Soni",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Tarang J Ranpara",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Parikh Apurva Ketanbhai",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Abhimanyu Singh Bisht",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Dave Bhargav Deven",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Akansha Tyagi",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Tanvi Lakkad",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Surupendu Prakash Gangopadhyay",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Palak Thakur",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Pooja R Purabia",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Jankhana J Goswami",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Shaili Trivedi",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Nirali Popat",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Neelasha Sen",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Shiju Pappan",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Jyotsana Khatri",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Ankush Chander",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Jainisha Sankhavara",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Rachit Chhaya",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Ganesh R Iyer",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Fenny Thakrar",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Madhulika Agrawal",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Shah Harsh Kaushikbhai",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Nitin Ramakhiyani",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Parth Mehta",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Khushboo Singhal",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Parth Gupta",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Sameer Rao",
                 "image": "https://via.placeholder.com/150"
             }
         ]

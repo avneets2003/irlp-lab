@@ -2,11 +2,11 @@ import React from 'react';
 import { Container, Navbar, Nav, NavDropdown } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import styles from './styles';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logo-blue.png';
 
 const Header = () => {
     return (
-        <Navbar expand="lg" style={{ backgroundColor: '#e0f7e0' }}>
+        <Navbar expand="lg" style={{ backgroundColor: '#d1f6ff' }}>
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" className="order-1" />
                 <Navbar.Brand 
