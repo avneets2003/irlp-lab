@@ -25,44 +25,40 @@
         "title": "PG Students",
         "people": [
             {
-                "name": "Aditi Singh (M.Sc. DS)",
+                "name": "Parth Patel",
                 "image": "https://via.placeholder.com/150"
             },
             {
-                "name": "Anurag Shukla (M.Sc. DS)",
+                "name": "Shubham Kukadiya",
                 "image": "https://via.placeholder.com/150"
             },
             {
-                "name": "Ganesh Epili (M.Tech. ICT)",
-                "image": "https://via.placeholder.com/150"
-            },
-            {
-                "name": "Garvika (M.Sc. DS)",
-                "image": "https://via.placeholder.com/150"
-            },
-            {
-                "name": "Jyoti Kumari (M.Sc. DS)",
-                "image": "https://via.placeholder.com/150"
-            },
-            {
-                "name": "Tanaz Pathan (M.Sc. DS)",
+                "name": "Viraj Ajani",
                 "image": "https://via.placeholder.com/150"
             }
         ]
     },
     {
-        "title": "UG Students",
+        "title": "Staff Members",
         "people": [
             {
-                "name": "Avneet Sharma",
+                "name": "Kishan Kachhaddiya (Jr. Computer Scientist)",
                 "image": "https://via.placeholder.com/150"
             },
             {
-                "name": "Bhavesh Baraiya",
+                "name": "Patel Vibhuti Kishorbhai (Jr. Computer Scientist)",
                 "image": "https://via.placeholder.com/150"
             },
             {
-                "name": "Chintan Maru",
+                "name": "Mayur Shrimali (Language Editor)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Nikita Mahendrabhai Chauhan (Language Editor)",
+                "image": "https://via.placeholder.com/150"
+            },
+            {
+                "name": "Aryan Y. Vyas (Project Assistant)",
                 "image": "https://via.placeholder.com/150"
             }
         ]
@@ -71,7 +67,7 @@
         "title": "Alumni (Ph.D.)",
         "people": [
             {
-                "name": "Jainisha Sankhavara",
+                "name": "Parth Mehta",
                 "image": "https://via.placeholder.com/150"
             },
             {
@@ -79,7 +75,7 @@
                 "image": "https://via.placeholder.com/150"
             },
             {
-                "name": "Parth Mehta",
+                "name": "Jainisha Sankhavara",
                 "image": "https://via.placeholder.com/150"
             }
         ]

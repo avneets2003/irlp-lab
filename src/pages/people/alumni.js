@@ -1,5 +1,5 @@
 import React from 'react';
-import UserCard from '../../components/userCard/index';
+import { Card, Col, Row } from 'react-bootstrap';
 import data from '../../data/people.json';
 
 const AlumniPage = () => {
@@ -10,11 +10,30 @@ const AlumniPage = () => {
         .map((category, index) => (
           <div key={index}>
             <h2 className="mt-4 mb-4">{category.title}</h2>
-            <div className="d-flex flex-wrap">
-              {category.people.map((person, idx) => (
-                <UserCard key={idx} name={person.name} image={person.image} />
-              ))}
-            </div>
+            <Row className='mx-3 mx-md-0'>
+              {category.title === 'Alumni (M.Tech.)' ? (
+                category.people.map((person, idx) => (
+                  <Col key={idx} xs={12} md={4} className="mb-4">
+                    <Card>
+                      <Card.Body>
+                        <Card.Title>{person.name}</Card.Title>
+                      </Card.Body>
+                    </Card>
+                  </Col>
+                ))
+              ) : (
+                category.people.map((person, idx) => (
+                  <Col key={idx} xs={12} md={4} lg={3} className="mb-4">
+                    <Card>
+                      <Card.Img variant="top" src={person.image} />
+                      <Card.Body>
+                        <Card.Title>{person.name}</Card.Title>
+                      </Card.Body>
+                    </Card>
+                  </Col>
+                ))
+              )}
+            </Row>
           </div>
         ))}
     </div>

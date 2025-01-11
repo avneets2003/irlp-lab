@@ -6,13 +6,17 @@ const EventCard = ({ event }) => {
     <Card className="mb-3">
       <Row>
         <Col md={2}>
-          <Card.Img variant="top" src={event.image} />
+          <Card.Img 
+            variant="top" 
+            src={event.image} 
+            style={{ objectFit: 'cover', height: '100%' }}
+          />
         </Col>
         <Col md={8}>
           <Card.Body>
             <Card.Title>{event.title}</Card.Title>
             <Card.Text>
-              <strong>Date:</strong> {event.date}
+              <strong>Date:</strong> {event.formattedDate}
             </Card.Text>
           </Card.Body>
         </Col>

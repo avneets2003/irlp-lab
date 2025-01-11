@@ -1,22 +1,21 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import news from '../../data/news.json';
+import NewsCard from '../../components/newsCard/index';
 
 const MediaCoveragePage = () => {
   const sortedNews = news.sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 10);
 
   return (
     <Container className="mt-5">
-      <div>
-          <h2>IRLP Lab in News</h2>
-          <ul>
-              {sortedNews.map((item, index) => (
-                  <li key={index}>
-                    <span style={{ color: 'grey', fontWeight: 'bold' }}>{item.date}</span>: {item.headline}
-                  </li>
-              ))}
-          </ul>
-      </div>
+      <h2>IRLP Lab in News</h2>
+      <Row>
+        {sortedNews.map((item, index) => (
+          <Col key={index} md={4}>
+            <NewsCard news={item} />
+          </Col>
+        ))}
+      </Row>
     </Container>
   );
 }

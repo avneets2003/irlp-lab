@@ -15,11 +15,12 @@ const Header = () => {
                     className="order-2 d-none d-md-block" 
                     style={styles.navbarBrand}
                 >
-                    <img 
+                    {/* <img 
                         src={logo} 
                         alt="IRLP Lab Logo" 
                         style={{ height: '80px' }}
-                    />
+                    /> */}
+                    <strong>IRLP Lab</strong>
                 </Navbar.Brand>
                 <Navbar.Brand 
                     as={Link} 
@@ -41,12 +42,11 @@ const Header = () => {
                             <NavDropdown.Item as={Link} to="/people/alumni">Alumni</NavDropdown.Item>
                         </NavDropdown>
                         <NavDropdown title="Research" id="research-dropdown" style={styles.navLink}>
-                            <NavDropdown.Item as={Link} to="/research/interests">Interests</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/research/projects">Projects</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/research/resources">Resources</NavDropdown.Item>
                         </NavDropdown>
                         <NavDropdown title="Affairs" id="affairs-dropdown" style={styles.navLink}>
                             <NavDropdown.Item as={Link} to="/events">Events</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/talks">Talks</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/gallery">Gallery</NavDropdown.Item>
                             <NavDropdown.Item as={Link} to="/media-coverage">Media Coverage</NavDropdown.Item>
                         </NavDropdown>
