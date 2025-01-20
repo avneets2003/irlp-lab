@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/irlp-lab/static/css/main.131a7560.css",
-    "main.js": "/irlp-lab/static/js/main.480ddd25.js",
+    "main.css": "/irlp-lab/static/css/main.891b4378.css",
+    "main.js": "/irlp-lab/static/js/main.bf30fb3b.js",
     "static/js/453.5e31f3a5.chunk.js": "/irlp-lab/static/js/453.5e31f3a5.chunk.js",
     "static/media/fire_12.jpg": "/irlp-lab/static/media/fire_12.2a252aeea023aab99f8b.jpg",
     "static/media/blackboard.jpeg": "/irlp-lab/static/media/blackboard.ef254854cbf30e63bad4.jpeg",
@@ -12,12 +12,12 @@
     "static/media/bootstrap-icons.woff2?": "/irlp-lab/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/logo-blue.png": "/irlp-lab/static/media/logo-blue.89a8abd14413aa5d97a7.png",
     "index.html": "/irlp-lab/index.html",
-    "main.131a7560.css.map": "/irlp-lab/static/css/main.131a7560.css.map",
-    "main.480ddd25.js.map": "/irlp-lab/static/js/main.480ddd25.js.map",
+    "main.891b4378.css.map": "/irlp-lab/static/css/main.891b4378.css.map",
+    "main.bf30fb3b.js.map": "/irlp-lab/static/js/main.bf30fb3b.js.map",
     "453.5e31f3a5.chunk.js.map": "/irlp-lab/static/js/453.5e31f3a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.131a7560.css",
-    "static/js/main.480ddd25.js"
+    "static/css/main.891b4378.css",
+    "static/js/main.bf30fb3b.js"
   ]
 }
