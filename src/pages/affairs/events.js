@@ -13,7 +13,11 @@ const EventsPage = () => {
         return `${start} to ${end}`;
     };
 
+    // Filter upcoming events where start_date is in the future
     const upcomingEvents = eventsData.events.filter(event => new Date(event.start_date) > today);
+
+    // Filter past events where start_date is in the past
+    const pastEvents = eventsData.events.filter(event => new Date(event.start_date) <= today);
 
     return (
         <Container className="mt-5">
@@ -35,19 +39,23 @@ const EventsPage = () => {
                 </>
             )}
 
-            <h1 className="mt-5 mb-4">Past Events</h1>
-            <Row className="mx-3">
-                {eventsData.events.map((event, index) => (
-                    <Col key={index} md={12}>
-                        <EventCard
-                            event={{
-                                ...event,
-                                formattedDate: formatDateRange(event.start_date, event.end_date),
-                            }}
-                        />
-                    </Col>
-                ))}
-            </Row>
+            {pastEvents.length > 0 && (
+                <>
+                    <h1 className="mt-5 mb-4">Past Events</h1>
+                    <Row className="mx-3">
+                        {pastEvents.map((event, index) => (
+                            <Col key={index} md={12}>
+                                <EventCard
+                                    event={{
+                                        ...event,
+                                        formattedDate: formatDateRange(event.start_date, event.end_date),
+                                    }}
+                                />
+                            </Col>
+                        ))}
+                    </Row>
+                </>
+            )}
         </Container>
     );
 };

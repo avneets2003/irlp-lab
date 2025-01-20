@@ -11,7 +11,7 @@ const MediaCoveragePage = () => {
       <h2>IRLP Lab in News</h2>
       <Row>
         {sortedNews.map((item, index) => (
-          <Col key={index} md={4}>
+          <Col key={index} md={6}>
             <NewsCard news={item} />
           </Col>
         ))}

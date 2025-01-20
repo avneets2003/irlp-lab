@@ -14,7 +14,7 @@ const CurrentPeoplePage = () => {
             <Row className='mx-3 mx-md-0'>
               {category.people.map((person, idx) => (
                 <Col key={idx} xs={12} md={4} lg={3} className="mb-4">
-                  <UserCard name={person.name} image={person.image} />
+                  <UserCard name={person.name} image={person.image} socials={person.socials} />
                 </Col>
               ))}
             </Row>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import map from '../../urls';
+import './styles.css';
 
 const ContactPage = () => {
   return (
@@ -11,8 +12,7 @@ const ContactPage = () => {
           <iframe
             title="map"
             src={map}
-            width="600"
-            height="450"
+            className="responsive-map"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"

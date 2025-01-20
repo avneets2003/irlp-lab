@@ -34,10 +34,10 @@ const GalleryPage = () => {
                   }}
                 />
               </div>
-              <Card.Body>
+              {/* <Card.Body>
                 <Card.Title>Image {index + 1}</Card.Title>
                 <Card.Text>Image description or any other details can go here.</Card.Text>
-              </Card.Body>
+              </Card.Body> */}
             </Card>
           </Col>
         ))}

@@ -4,7 +4,11 @@
         "people": [
             {
                 "name": "Prof. Prasenjit Majumder",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     },
@@ -13,11 +17,19 @@
         "people": [
             {
                 "name": "Surupendu Gangopadhyay",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Bhargav Dave",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     },
@@ -26,15 +38,27 @@
         "people": [
             {
                 "name": "Parth Patel",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Shubham Kukadiya",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Viraj Ajani",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     },
@@ -43,23 +67,43 @@
         "people": [
             {
                 "name": "Kishan Kachhaddiya (Jr. Computer Scientist)",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Patel Vibhuti Kishorbhai (Jr. Computer Scientist)",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Mayur Shrimali (Language Editor)",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Nikita Mahendrabhai Chauhan (Language Editor)",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Aryan Y. Vyas (Project Assistant)",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     },
@@ -68,15 +112,27 @@
         "people": [
             {
                 "name": "Parth Mehta",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Sandip Jayantilal Modha",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Jainisha Sankhavara",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     },
@@ -85,127 +141,243 @@
         "people": [
             {
                 "name": "Shripad Anant Bhat",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Sonal Mishra",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Raj B Prajapati",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Maulik Soni",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Tarang J Ranpara",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Parikh Apurva Ketanbhai",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Abhimanyu Singh Bisht",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Dave Bhargav Deven",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Akansha Tyagi",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Tanvi Lakkad",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Surupendu Prakash Gangopadhyay",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Palak Thakur",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Pooja R Purabia",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Jankhana J Goswami",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Shaili Trivedi",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Nirali Popat",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Neelasha Sen",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Shiju Pappan",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Jyotsana Khatri",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Ankush Chander",
-                "image": "https://via.placeholder.com/150"
-            },
-            {
-                "name": "Jainisha Sankhavara",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Rachit Chhaya",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Ganesh R Iyer",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Fenny Thakrar",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Madhulika Agrawal",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Shah Harsh Kaushikbhai",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Nitin Ramakhiyani",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Parth Mehta",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Khushboo Singhal",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Parth Gupta",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             },
             {
                 "name": "Sameer Rao",
-                "image": "https://via.placeholder.com/150"
+                "image": "https://via.placeholder.com/150",
+                "socials": {
+                    "LinkedIn": "https://www.linkedin.com",
+                    "GitHub": "https://github.com"
+                }
             }
         ]
     }
